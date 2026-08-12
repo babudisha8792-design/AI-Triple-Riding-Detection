@@ -1,4 +1,4 @@
-# PyTorch Three-Person-on-One-Bike Detection System - Setup & User Guide
+# PyTorch AI TRIPLE RIDING DETECTION - Setup & User Guide
 
 A complete Python Web Application Platform and Standalone CLI Inference system powered by **PyTorch/YOLO (`best.pt`)**, OpenCV frame annotation, Flask, and a modern glassmorphism dark UI.
 
