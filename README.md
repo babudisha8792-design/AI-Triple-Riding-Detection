@@ -226,3 +226,5 @@ BIKE_CLASSES = ["motorcycle", "motorbike", "bike", "scooter"]
 ## 📌 Disclaimer & Project Note
 
 > This project demonstrates an AI-based traffic violation detection concept suitable for academic or prototype demonstrations. The production accuracy of the system depends on the quality of the trained model, dataset, camera angle, lighting, object detection performance, and person-to-bike association algorithm.
+>Output:
+> <img width="1756" height="888" alt="Image" src="https://github.com/user-attachments/assets/9bab40d1-2718-4f56-9c67-0f57afe3e6d2" />
